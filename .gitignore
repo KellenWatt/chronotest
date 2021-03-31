@@ -1,0 +1,6 @@
+# Vim files
+*.swp
+*.swo
+
+# Custom backup structure
+.*.*
