@@ -3,13 +3,13 @@ Gem::Specification.new do |s|
   # Required
   s.name = "chronotest"
   s.version = "0.0.1"
-  s.summary = ""
+  s.summary = "Asynchronously-run testing framework"
   s.author = "Kellen Watt"
   s.files = Dir["lib/**/*"]
   
   # Recommended
-  s.license = ""
-  s.description = ""
+  s.license = "MIT"
+  s.description = "A framework for safely running tests asynchronously, including safe, per-test logging."
   s.date = Date.today.strftime("%Y-%m-%d")
   s.email = ""
   s.homepage = ""
