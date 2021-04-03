@@ -1,3 +1,6 @@
+# Rubygems files
+*.gem
+
 # Vim files
 *.swp
 *.swo
