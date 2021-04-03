@@ -14,7 +14,8 @@ Gem::Specification.new do |s|
   s.email = ""
   s.homepage = ""
   s.metadata = {}
-  
+
+  s.required_ruby_version = ">= 2.3.0"
   
   # Optional and situational - delete or keep, as necessary
   # s.bindir = "bin"
